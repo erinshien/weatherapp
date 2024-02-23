@@ -1,4 +1,4 @@
-Made with Albert Szupszynski and Ravi Kataria for the School of Code Week 3 Hackathon.
+***Made with Albert Szupszynski and Ravi Kataria for the School of Code Week 3 Hackathon.***
 
 Our goal was to build a simple application leveraging a third-party weather API that displays weather data for the user to see in the browser.
 
