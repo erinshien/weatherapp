@@ -1,10 +1,12 @@
 ***Made with Albert Szupszynski and Ravi Kataria for the School of Code Week 3 Hackathon.***
 
+<a href="https://www.freepik.com/author/user8839173/icons/iconixar-flat_822?t=f&query=weather">Icons by iconixar</a>
+
 Our goal was to build a simple application leveraging a third-party weather API that displays weather data for the user to see in the browser.
 
 We planned out our process in a flow diagram, and then translated this into tickets that we took turns to fulfill.
 
-Our flow diagram: https://github.com/erinshien/weatherapp/blob/main/Week3.drawio.png
+<a href="https://github.com/erinshien/weatherapp/blob/main/Week3.drawio.png">Our flow diagram</a>
 
 Ticket 1 ✅
 - Set up boiler plate code
