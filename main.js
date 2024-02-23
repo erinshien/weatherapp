@@ -17,7 +17,7 @@ let weatherImage = document.getElementById("weather-image");
 const giggleswickUrl = "https://api.open-meteo.com/v1/forecast?latitude=54.072&longitude=-2.2885&current=temperature_2m,weather_code,wind_speed_10m&daily=sunrise,sunset&timezone=GMT&forecast_days=1"
 const godmanchesterUrl = "https://api.open-meteo.com/v1/forecast?latitude=52.3194&longitude=-0.1751&current=temperature_2m,weather_code,wind_speed_10m&daily=sunrise,sunset&timezone=GMT&forecast_days=1"
 const wetwangUrl = "https://api.open-meteo.com/v1/forecast?latitude=54.0175&longitude=-0.5774&current=temperature_2m,weather_code,wind_speed_10m&daily=sunrise,sunset&timezone=GMT&forecast_days=1"
-const hellUrl="https://api.open-meteo.com/v1/forecast?latitude=42.4348&longitude=-83.9849&current=temperature_2m,weather_code,wind_speed_10m&daily=sunrise,sunset&timezone=GMT&forecast_days=1"
+const hellUrl="https://api.open-meteo.com/v1/forecast?latitude=42.4348&longitude=-83.9849&current=temperature_2m,weather_code,wind_speed_10m&daily=sunrise,sunset&timezone=America%2FNew_York&forecast_days=1"
 const gigglesButton = document.getElementById("gigglesbutton");
 const godButton = document.getElementById("godbutton");
 const wetButton = document.getElementById("wetbutton");
