@@ -4,7 +4,7 @@ Our goal was to build a simple application leveraging a third-party weather API 
 
 We planned out our process in a flow diagram, and then translated this into tickets that we took turns to fulfill.
 
-Our flow diagram: ![flowdiagram](https://github.com/erinshien/weatherapp/Week3.drawio.png)(https://github.com/erinshien/weatherapp/blob/main/Week3.drawio.png)
+Our flow diagram: https://github.com/erinshien/weatherapp/blob/main/Week3.drawio.png
 
 Ticket 1 ✅
     Set up boiler plate code
