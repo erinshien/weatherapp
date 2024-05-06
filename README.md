@@ -1,12 +1,14 @@
+![screenshot of weather app live site](./sitepreview.png)
+
 ***Made with Albert Szupszynski and Ravi Kataria for the School of Code Week 3 Hackathon.***
 
 <a href="https://www.freepik.com/author/user8839173/icons/iconixar-flat_822?t=f&query=weather">Icons by iconixar</a>
 
-Our goal was to build a simple application leveraging a third-party weather API that displays weather data for the user to see in the browser.
+Our goal was to build a simple application leveraging the [Open Meteo](https://open-meteo.com/) third-party weather API that displays weather data for the user to see in the browser.
 
 We planned out our process in a flow diagram, and then translated this into tickets that we took turns to fulfill.
 
-<a href="https://github.com/erinshien/weatherapp/blob/main/Week3.drawio.png">Our flow diagram</a>
+![flow diagram of app build plan](./drawio.png)
 
 Ticket 1 ✅
 - Set up boiler plate code
