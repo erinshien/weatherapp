@@ -27,7 +27,7 @@
       </ul>
     </li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -91,8 +91,8 @@ We planned out our process in a flow diagram, and then translated this into tick
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+<!-- ACKNOWLEDGEMENTS -->
+## Acknowledgements
 
 * [Icons by iconixar](https://www.freepik.com/author/user8839173/icons/iconixar-flat_822?t=f&query=weather)
 * [Open Meteo API](https://open-meteo.com/)
